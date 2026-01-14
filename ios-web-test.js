@@ -3,8 +3,8 @@ import 'colors'
 import wd from 'wd'
 import {assert} from 'chai'
 
-const username = 'nakitaxesi'
-const apiKey = 'f79c3787-79f2-4759-b7e6-78c9ea4752dc'
+const username = 'your Kobiton username'
+const apiKey = 'your Kobiton api key'
 
 const kobitonServerConfig = {
   protocol: 'https',

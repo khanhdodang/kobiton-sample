@@ -4,7 +4,7 @@ import wd from 'wd'
 import {assert} from 'chai'
 
 const username = 'your Kobiton username'
-const apiKey = 'your Kobiton api key'dc'
+const apiKey = 'your Kobiton api key'
 
 const kobitonServerConfig = {
   protocol: 'https',
